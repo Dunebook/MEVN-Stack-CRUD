@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.5",
+    "yarn": "^1.22.19"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "yarn-upgrade-all": "^0.7.2"
+  }
+}
